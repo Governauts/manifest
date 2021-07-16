@@ -103,10 +103,6 @@ Engage with Governauts on [Twitter](https://twitter.com/GovernanceDAO), and join
 
 {% embed url="https://t.me/GovCommons" %}
 
-We are planning weekly calls in the PrimeDAO Discord:  
-  
-
-
 Thanks for being here! Let us know any feedback :\)  
 
 
