@@ -8,8 +8,6 @@ description: Help answer important questions about Token Governance Systems!
 
 Exploring a multiverse of token governance! Join our community of Governauts collaborating on various research projects. You may discover opportunities to learn, build, and earn by participating and contributing to this knowledge commons \(and others\).
 
-![The moon is a good starting point!](.gitbook/assets/istock-165956201.jpg)
-
 Our purpose is to sustainably coordinate missions for anyone working on related projects in the field of Token Engineering. Ultimately, the association of Governauts will create a map of governance constellations for various blockchain ecosystems.
 
 ### Prime Directives
@@ -36,7 +34,7 @@ Following the [Open Web Governance Challenge](https://metagov.github.io/open-web
 
 As a means to that end, we raised $2,759 from 724 contributors via Gitcoin Grants! We are so grateful to everyone who made that happen 💖
 
-{% embed url="https://gitcoin.co/grants/2978/incubating-governauts" %}
+https://gitcoin.co/grants/2978/incubating-governauts
 
 ### Meta Governance
 
@@ -101,8 +99,4 @@ _**Most importantly, we will work on real challenges in the space, applying Toke
 
 Engage with Governauts on [Twitter](https://twitter.com/GovernanceDAO), and join our growing community on [Telegram](https://t.me/GovCommons). All are welcome to contribute ideas for projects, workshops, experiments, and more!
 
-{% embed url="https://t.me/GovCommons" %}
-
 Thanks for being here! Let us know any feedback :\)  
-
-
